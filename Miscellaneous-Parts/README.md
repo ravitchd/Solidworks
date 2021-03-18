@@ -1,4 +1,4 @@
 # Miscellaneous-Parts
 
-![Engine.gif](/Engine/2cycl.gif?raw=true) 
+![FlashlightAssembly.png](/Miscellaneous-Parts/FlashlightAssembly.png?raw=true) 
 
