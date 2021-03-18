@@ -8,16 +8,16 @@
 ## PVC Pipe
 ![PVCPIPE.png](/Miscellaneous-Parts/PVCPIPE.png?raw=true)
 
-[PVC_PIPE.SLDPRT](/Miscellaneous-Parts/PVC_PIPE.SLDPRT?raw=true) 
+[PVCPIPE.SLDPRT](/Miscellaneous-Parts/PVC_PIPE.SLDPRT?raw=true) 
 
 ## M6 BOLT AND NUT
 ![M6_BOLT.png](/Miscellaneous-Parts/M6BOLT.png?raw=true)
 
 [M6BOLT.SLDPRT](/Miscellaneous-Parts/M6_BOLT.SLDPRT?raw=true)
 
-![M6_NUT.png](/Miscellaneous-Parts/M6_NUT.png?raw=true)
+![M6NUT.png](/Miscellaneous-Parts/M6NUT.png?raw=true)
 
-[M6BOLT.SLDPRT](/Miscellaneous-Parts/M6_NUT.SLDPRT?raw=true)
+[M6NUT.SLDPRT](/Miscellaneous-Parts/M6_NUT.SLDPRT?raw=true)
 
 ## TIRE
 
